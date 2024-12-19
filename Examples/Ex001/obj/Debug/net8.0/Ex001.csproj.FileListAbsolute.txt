@@ -1,0 +1,14 @@
+C:\gitlaba4tog\Examples\Ex001\bin\Debug\net8.0\Ex001.exe
+C:\gitlaba4tog\Examples\Ex001\bin\Debug\net8.0\Ex001.deps.json
+C:\gitlaba4tog\Examples\Ex001\bin\Debug\net8.0\Ex001.runtimeconfig.json
+C:\gitlaba4tog\Examples\Ex001\bin\Debug\net8.0\Ex001.dll
+C:\gitlaba4tog\Examples\Ex001\bin\Debug\net8.0\Ex001.pdb
+C:\gitlaba4tog\Examples\Ex001\obj\Debug\net8.0\Ex001.GeneratedMSBuildEditorConfig.editorconfig
+C:\gitlaba4tog\Examples\Ex001\obj\Debug\net8.0\Ex001.AssemblyInfoInputs.cache
+C:\gitlaba4tog\Examples\Ex001\obj\Debug\net8.0\Ex001.AssemblyInfo.cs
+C:\gitlaba4tog\Examples\Ex001\obj\Debug\net8.0\Ex001.csproj.CoreCompileInputs.cache
+C:\gitlaba4tog\Examples\Ex001\obj\Debug\net8.0\Ex001.dll
+C:\gitlaba4tog\Examples\Ex001\obj\Debug\net8.0\refint\Ex001.dll
+C:\gitlaba4tog\Examples\Ex001\obj\Debug\net8.0\Ex001.pdb
+C:\gitlaba4tog\Examples\Ex001\obj\Debug\net8.0\Ex001.genruntimeconfig.cache
+C:\gitlaba4tog\Examples\Ex001\obj\Debug\net8.0\ref\Ex001.dll
